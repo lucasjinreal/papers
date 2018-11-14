@@ -14,3 +14,12 @@ Every paper I read or stared will drop right here as well as some notes on it.
 
    代码已经开源：https://github.com/zengarden/light_head_rcnn.git
 
+2. [Learning a Rotation Invariant Detector with Rotatable Bounding Box](https://github.com/liulei01/DRBox):
+
+   这篇论文就牛逼了，直接生成不规则的矩形，这是**下一代目标检测的主要方向**, 并且，个人认为，还是很有用途，比如在一些俯视图上，或者一些不规则的物体上检测很有用。或者可以试一试用在车道线的检测上？
+
+3. [R2CNN: Rotational Region CNN for Orientation Robust Scene Text Detection]()
+
+   带旋转角度的矩形框检测。多用在文本检测上，在一些可以利用的场合，比如文本检测，仪表盘检测等，还是很有用的。
+
+4. 
