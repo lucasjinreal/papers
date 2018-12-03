@@ -8,6 +8,10 @@ Every paper I read or stared will drop right here as well as some notes on it.
 
 ## cv
 
+*2018*
+
+
+
 1. [Light-Head R-CNN: In Defense of Two-Stage Object Detector](https://arxiv.org/pdf/1711.07264.pdf).
 
    较为新的一个检测算法，对比了诸如RetinaNet，FPN，RFCN等较新的2-stage检测方法，结果显示，由于架构的不同，是的他的速度更快，号称可以达到100fps，这就牛逼了，不知道什么平台测试的。比yolo还快。
@@ -22,4 +26,14 @@ Every paper I read or stared will drop right here as well as some notes on it.
 
    带旋转角度的矩形框检测。多用在文本检测上，在一些可以利用的场合，比如文本检测，仪表盘检测等，还是很有用的。
 
-4. 
+4. [OCNet: Object Context Network for Scene Parsing](https://arxiv.org/pdf/1809.00916.pdf): Microsoft 的最新分割算法 OCNet，据说可以达到soa。值得一看，另外论文好像也开放了源码：https://github.com/PkuRainBow/OCNet.git
+
+
+
+## nlp
+
+
+
+*2018*
+
+todo..
