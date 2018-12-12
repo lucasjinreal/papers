@@ -28,6 +28,8 @@ Every paper I read or stared will drop right here as well as some notes on it.
 
 4. [OCNet: Object Context Network for Scene Parsing](https://arxiv.org/pdf/1809.00916.pdf): Microsoft 的最新分割算法 OCNet，据说可以达到soa。值得一看，另外论文好像也开放了源码：https://github.com/PkuRainBow/OCNet.git
 
+5. [Learning to segmen every thing](https://arxiv.org/pdf/1711.10370.pdf): Kaiming 团队最新的论文，在maskrcnn的基础之上，又提出了一个更加牛逼的方案：网络可以分割在训练及没有出现的类别！！！这个就牛叉了。。
+
 
 
 ## nlp
